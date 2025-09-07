@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanotk
 - 👀 I’m interested in Computer assisted music composition
-- 🌱 I’m currently learning Opusmodus, Python, Scamp
+- 🌱 I’m currently learning Opusmodus, and Strudel
 - 💞️ I’m looking to collaborate on Algorithmic music comp projects
 
 
