@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nanotk
+- 👋 Hi, I’m Stephane Boussuge
 - 👀 I’m interested in Computer assisted music composition
-- 🌱 I’m currently learning Opusmodus, and Strudel
+- 🌱 I’m currently working mainly with Opusmodus, VCVRack, Csound, and occasionaly in Strudel for Live Coding
 - 💞️ I’m looking to collaborate on Algorithmic music comp projects
 
 
